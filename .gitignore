@@ -1,0 +1,5 @@
+/data
+/node_match/data
+*.log
+*.temp
+*.a
